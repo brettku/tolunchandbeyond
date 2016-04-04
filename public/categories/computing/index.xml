@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing on Musings about life and other things I find vaguely interesting</title>
+    <link>http://tolunchandbeyond.site/categories/computing/</link>
+    <description>Recent content in Computing on Musings about life and other things I find vaguely interesting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2016 19:40:52 +0800</lastBuildDate>
+    <atom:link href="http://tolunchandbeyond.site/categories/computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web building with Hugo</title>
+      <link>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</link>
+      <pubDate>Mon, 04 Apr 2016 19:40:52 +0800</pubDate>
+      
+      <guid>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</guid>
+      <description>&lt;p&gt;I have been attempting to build a static website using Hugo.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s hard to know whether I&amp;rsquo;m winning or not&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
