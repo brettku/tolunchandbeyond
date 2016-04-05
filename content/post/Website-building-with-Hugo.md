@@ -1,5 +1,5 @@
 ---
-author: 
+author:
   description: Writer of stuff
   email: firstname@example.com
   github: https://github.com/
@@ -12,16 +12,12 @@ cardheaderimage: /images/default.jpg
 cardthumbimage: /images/default.jpg
 categories:
 - post
-date: 2016-04-05T14:26:21+08:00
-description: Introduction
+date: 2016-04-05T19:46:18+08:00
+description: first post with Hugo website engine
 tags:
-- Meta
-
-title: Introduction
+- Computing
+title: Website building with Hugo
 ---
 
-This site is under construction.
-
-Please enjoy this complimentory photograph of Cape Naturaliste in Western Australia.
-
-![Cape Naturaliste](/cape_naturaliste.jpg)
+I've been attempting to build static websites with Hugo.  After much pain and sufferring I am beginning to get the hang of it.
+Let's hope I don't get a job too soon...

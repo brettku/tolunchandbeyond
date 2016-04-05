@@ -1,3 +1,19 @@
-baseurl = "http://tolunchandbeyond.site/"
-languageCode = "en-us"
-title = "Musings about life and other things I find vaguely interesting"
+baseurl = "tolunchandbeyond.site"
+languageCode = "en-US"
+title = "To Lunch and Beyond"
+theme = "hugo-mdl"
+MetaDataFormat = "yaml"
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+[params]
+    name = "Brett"
+    description = "Musings about life and things that vaguely amuse me" #meta description
+    image = "/chicken_200.jpg" #for frontpage profile card
+   # website = "example.com"
+   # email = "Firstname@example.com"
+   # twitter = "https://twitter.com/firstname_lastname"
+   # github = "https://github.com/firstname_lastname/"
+    copyrightyear = "2016"
+    frontpageposts = 6 #number of post cards to display on frontpage
+    
