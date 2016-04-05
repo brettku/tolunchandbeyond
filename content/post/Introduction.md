@@ -10,4 +10,4 @@ This site is under construction.
 
 As compensation, please accept this photo of Cape Natraliste in Western Australia.
 
-![Cape Naturaliste](/static/IMG_2337.JPG)
+![Cape Naturaliste](/cape_naturaliste.jpg)
