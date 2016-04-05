@@ -1,4 +1,4 @@
-baseurl = "tolunchandbeyond.site"
+#baseurl = "tolunchandbeyond.site"
 languageCode = "en-US"
 title = "To Lunch and Beyond"
 theme = "hugo-mdl"

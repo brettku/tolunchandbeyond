@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/tolunchandbeyond.site/</loc>
+    <loc>/</loc>
     <lastmod>2016-04-05T20:43:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tolunchandbeyond.site/post/Test/</loc>
+    <loc>/post/Test/</loc>
     <lastmod>2016-04-05T20:43:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tolunchandbeyond.site/post/Website-building-with-Hugo/</loc>
+    <loc>/post/Website-building-with-Hugo/</loc>
     <lastmod>2016-04-05T19:46:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tolunchandbeyond.site/post/Introduction/</loc>
+    <loc>/post/Introduction/</loc>
     <lastmod>2016-04-05T14:26:21+08:00</lastmod>
   </url>
   

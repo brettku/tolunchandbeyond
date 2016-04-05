@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>To Lunch and Beyond</title>
-    <link>tolunchandbeyond.site/</link>
+    <link>/</link>
     <description>Recent content on To Lunch and Beyond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Apr 2016 20:43:31 +0800</lastBuildDate>
-    <atom:link href="tolunchandbeyond.site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test</title>
-      <link>/tolunchandbeyond.site/post/Test/</link>
+      <link>/post/Test/</link>
       <pubDate>Tue, 05 Apr 2016 20:43:31 +0800</pubDate>
       
-      <guid>/tolunchandbeyond.site/post/Test/</guid>
+      <guid>/post/Test/</guid>
       <description>&lt;p&gt;This is my post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Website building with Hugo</title>
-      <link>/tolunchandbeyond.site/post/Website-building-with-Hugo/</link>
+      <link>/post/Website-building-with-Hugo/</link>
       <pubDate>Tue, 05 Apr 2016 19:46:18 +0800</pubDate>
       
-      <guid>/tolunchandbeyond.site/post/Website-building-with-Hugo/</guid>
+      <guid>/post/Website-building-with-Hugo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been attempting to build static websites with Hugo.  After much pain and sufferring I am beginning to get the hang of it.
 Let&amp;rsquo;s hope I don&amp;rsquo;t get a job too soon&amp;hellip;&lt;/p&gt;
 </description>
@@ -32,15 +32,15 @@ Let&amp;rsquo;s hope I don&amp;rsquo;t get a job too soon&amp;hellip;&lt;/p&gt;
     
     <item>
       <title>Introduction</title>
-      <link>/tolunchandbeyond.site/post/Introduction/</link>
+      <link>/post/Introduction/</link>
       <pubDate>Tue, 05 Apr 2016 14:26:21 +0800</pubDate>
       
-      <guid>/tolunchandbeyond.site/post/Introduction/</guid>
+      <guid>/post/Introduction/</guid>
       <description>&lt;p&gt;This site is under construction.&lt;/p&gt;
 
 &lt;p&gt;Please enjoy this complimentory photograph of Cape Naturaliste in Western Australia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;tolunchandbeyond.site/cape_naturaliste.jpg&#34; alt=&#34;Cape Naturaliste&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/cape_naturaliste.jpg&#34; alt=&#34;Cape Naturaliste&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
