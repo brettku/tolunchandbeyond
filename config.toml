@@ -4,8 +4,8 @@ title = "To Lunch and Beyond"
 theme = "hugo-mdl"
 MetaDataFormat = "yaml"
 [permalinks]
-	page = "/:title/"
-	about = "/:filename/"
+#	page = "/:title/"
+#	about = "/:filename/"
 [params]
     name = "Brett"
     description = "Musings about life and things that vaguely amuse me" #meta description
