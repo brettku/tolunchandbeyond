@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Musings about life and other things I find vaguely interesting</title>
+    <title>Musings about life and other things I find vaguely interesting </title>
     <link>http://tolunchandbeyond.site/</link>
-    <description>Recent content on Musings about life and other things I find vaguely interesting</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2016 19:40:52 +0800</lastBuildDate>
-    <atom:link href="http://tolunchandbeyond.site/index.xml" rel="self" type="application/rss+xml" />
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-04-04 19:40:52 &#43;0800 AWST</updated>
+
     
-    <item>
-      <title>Web building with Hugo</title>
-      <link>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</link>
-      <pubDate>Mon, 04 Apr 2016 19:40:52 +0800</pubDate>
       
-      <guid>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</guid>
-      <description>&lt;p&gt;I have been attempting to build a static website using Hugo.&lt;/p&gt;
+        <item>
+          <title>Web building with Hugo</title>
+          <link>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</link>
+          <pubDate>Mon, 04 Apr 2016 19:40:52 AWST</pubDate>
+          <author></author>
+          <guid>http://tolunchandbeyond.site/post/Web-building-with-Hugo/</guid>
+          <description>&lt;p&gt;I have been attempting to build a static website using Hugo.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s hard to know whether I&amp;rsquo;m winning or not&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>http://tolunchandbeyond.site/post/Introduction/</link>
-      <pubDate>Mon, 04 Apr 2016 19:34:32 +0800</pubDate>
+        </item>
       
-      <guid>http://tolunchandbeyond.site/post/Introduction/</guid>
-      <description>&lt;p&gt;This site is under construction.&lt;/p&gt;
+    
+      
+        <item>
+          <title>Introduction</title>
+          <link>http://tolunchandbeyond.site/post/Introduction/</link>
+          <pubDate>Mon, 04 Apr 2016 19:34:32 AWST</pubDate>
+          <author></author>
+          <guid>http://tolunchandbeyond.site/post/Introduction/</guid>
+          <description>&lt;p&gt;This site is under construction.&lt;/p&gt;
 
 &lt;p&gt;As compensation, please accept this photo of Cape Natraliste in Western Australia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://tolunchandbeyond.site/static/IMG_2337.JPG&#34; alt=&#34;Cape Naturaliste&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tolunchandbeyond.site/cape_naturaliste.jpg&#34; alt=&#34;Cape Naturaliste&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
+        </item>
+      
     
+
   </channel>
 </rss>
