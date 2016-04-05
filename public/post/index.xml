@@ -6,8 +6,18 @@
     <description>Recent content in Posts on To Lunch and Beyond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Apr 2016 19:46:18 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2016 20:43:31 +0800</lastBuildDate>
     <atom:link href="tolunchandbeyond.site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>/tolunchandbeyond.site/post/Test/</link>
+      <pubDate>Tue, 05 Apr 2016 20:43:31 +0800</pubDate>
+      
+      <guid>/tolunchandbeyond.site/post/Test/</guid>
+      <description>&lt;p&gt;This is my post.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Website building with Hugo</title>
